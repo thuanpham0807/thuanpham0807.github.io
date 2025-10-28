@@ -17,9 +17,10 @@ description: this is Thuan profile page
 - Professional Scrum Master™ I (PSM I) [Show credential](https://www.scrum.org/user/333024)
 - Advanced Google Analytics [Show credential](https://analytics.google.com/analytics/academy/certificate/mBYmzoWCTDKI9bNH7jsWNQ)
 - Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/thuanpham0807/responsive-web-design)
+- API Testing Certificate by POSTMAN [Show credential](https://verify.skilljar.com/c/3sv2v3h2yhfg)
 
 ### Work history: 
-- 04/2020 - now: Restaff
+- 04/2020 - now: Restaff - House of Norway
 - 07/2018 – 04/2020: RCH
 - 01/2016 – 07/2018: Zinio
 - 05/2013 – 12/2015: Audience Media  VietNam (it's merged and acquired by Zinio)
