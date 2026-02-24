@@ -38,6 +38,7 @@ description: this is Thuan profile page
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
 - Design test strategy, test plan, test-suite, test-case and product document.
 - Experience working in Agile/Scrum model.
+- Built and developed Test team, driving quality strategy, mentoring junior testers, and ensuring high product standards across multiple projects.
 - Using design tools like Photoshop, Figma, Zeplin, Diagrams(draw.io), Snagit... to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
 	- [Figma Sample 1](https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
 	- [Figma Sample 2](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
@@ -58,7 +59,8 @@ Working for client [Upheads](https://upheads.no/)
 	- The CRM & Logistics web applications for Nordic market.
 	- HRM mobile(Android & iOS) applications.
 - Responsibilities: 
-	- Clarify the requirements/ feedbacks from stakeholder, make specification or draw mockup UI for product backlog items.
+	- Involve in building up, leading and managing a Test team of 2-5 members across multiple projects.
+    - Clarify the requirements/ feedbacks from stakeholder, make specification or draw mockup UI for product backlog items.
 	- Investigate and handle bugs report from clients
 	- Define test strategy, test plan, test cases.
 	- Execute functional, regression, integration, sanity and smoke testing.
@@ -75,7 +77,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 	- Native Android applications for cash register system machines like POS or handheld waiter device.
 	- In-house applications for internal using.
 - Responsibilities: 
-	- Involve in building up software team in Vietnam: Working abroad in Italy, reviewing resumes, interview and training. 
+	- Involve in building up, leading and managing a Test team of 2-5 members across multiple projects. 
 	- Involve in project management process: analyzes requirement document or clarifies the requirement directly with stake-holders; design wireframe applications. 
 	- Define test strategy, test plan, test cases. 
 	- Execute functional, regression, integration, sanity and smoke testing. 
@@ -91,7 +93,7 @@ Zinio is a multi-platform distribution service for digital magazines, with more 
 	- Zinio Admin tool:  It’s a Web app was built for media publishing Magazines  on mobile, web platforms, control the E-Commerce and Marketing systems.
 	- End to End testing for whole Zinio system and services include many types of product like API service, Web app, E-comerce Site, Mobile apps
 - Responsibilities: 
-	- Involve in building up QC team: reviewing resumes, interview and training. 
+	- Involve in building up, leading and managing a Test team of 10-15 members across multiple projects. 
 	- Making test plan, design, review  and execute test cases.
 	- Prepare testing environment.
 	- Execute functional, regression, integration, sanity and smoke testing. 
